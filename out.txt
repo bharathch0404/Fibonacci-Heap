@@ -1,0 +1,230 @@
+Options:
+1. Create Heap
+2. Insert
+3. Merge Heap
+4. Find Min
+5. Extract Min
+6. Decrease Key
+7. Free Heap
+
+Choose your option: 
+Enter the name of the heap: 
+Heap a has been created!
+Do you want to continue?
+Options:
+1. Create Heap
+2. Insert
+3. Merge Heap
+4. Find Min
+5. Extract Min
+6. Decrease Key
+7. Free Heap
+
+Choose your option: 
+Enter the name of the heap: 
+Heap b has been created!
+Do you want to continue?
+Options:
+1. Create Heap
+2. Insert
+3. Merge Heap
+4. Find Min
+5. Extract Min
+6. Decrease Key
+7. Free Heap
+
+Choose your option: 
+Enter the name of the heap: 
+Enter the value of key to be inserted: 
+Displaying heap a
+10  
+Do you want to continue?
+Options:
+1. Create Heap
+2. Insert
+3. Merge Heap
+4. Find Min
+5. Extract Min
+6. Decrease Key
+7. Free Heap
+
+Choose your option: 
+Enter the name of the heap: 
+Enter the value of key to be inserted: 
+Displaying heap a
+10,11  
+Do you want to continue?
+Options:
+1. Create Heap
+2. Insert
+3. Merge Heap
+4. Find Min
+5. Extract Min
+6. Decrease Key
+7. Free Heap
+
+Choose your option: 
+Enter the name of the heap: 
+Enter the value of key to be inserted: 
+Displaying heap a
+10,12,11  
+Do you want to continue?
+Options:
+1. Create Heap
+2. Insert
+3. Merge Heap
+4. Find Min
+5. Extract Min
+6. Decrease Key
+7. Free Heap
+
+Choose your option: 
+Enter the name of the heap: 
+Enter the value of key to be inserted: 
+Displaying heap a
+10,13,12,11  
+Do you want to continue?
+Options:
+1. Create Heap
+2. Insert
+3. Merge Heap
+4. Find Min
+5. Extract Min
+6. Decrease Key
+7. Free Heap
+
+Choose your option: 
+Enter the name of the heap: 
+Enter the value of key to be inserted: 
+Displaying heap b
+20  
+Do you want to continue?
+Options:
+1. Create Heap
+2. Insert
+3. Merge Heap
+4. Find Min
+5. Extract Min
+6. Decrease Key
+7. Free Heap
+
+Choose your option: 
+Enter the name of the heap: 
+Enter the value of key to be inserted: 
+Displaying heap b
+20,21  
+Do you want to continue?
+Options:
+1. Create Heap
+2. Insert
+3. Merge Heap
+4. Find Min
+5. Extract Min
+6. Decrease Key
+7. Free Heap
+
+Choose your option: 
+Enter the name of the heap: 
+Enter the value of key to be inserted: 
+Displaying heap b
+20,22,21  
+Do you want to continue?
+Options:
+1. Create Heap
+2. Insert
+3. Merge Heap
+4. Find Min
+5. Extract Min
+6. Decrease Key
+7. Free Heap
+
+Choose your option: 
+Enter the name of the heap: 
+Enter the value of key to be inserted: 
+Displaying heap b
+20,23,22,21  
+Do you want to continue?
+Options:
+1. Create Heap
+2. Insert
+3. Merge Heap
+4. Find Min
+5. Extract Min
+6. Decrease Key
+7. Free Heap
+
+Choose your option: 
+Enter the name of the heap: 
+20
+Minimum value in the heap b is 20.
+Displaying heap b
+22,21  
+23:22  
+Do you want to continue?
+Options:
+1. Create Heap
+2. Insert
+3. Merge Heap
+4. Find Min
+5. Extract Min
+6. Decrease Key
+7. Free Heap
+
+Choose your option: 
+Enter the name of the heap: 
+10
+Minimum value in the heap a is 10.
+Displaying heap a
+12,11  
+13:12  
+Do you want to continue?
+Options:
+1. Create Heap
+2. Insert
+3. Merge Heap
+4. Find Min
+5. Extract Min
+6. Decrease Key
+7. Free Heap
+
+Choose your option: 
+Enter the name of the first heap: 
+Enter the name of the second heap: 
+Enter the name of the third heap: 
+Heap a has been freed!
+HI
+Heap b has been freed!
+Displaying heap c
+22,11,12,21  
+13:12  13:12  
+Do you want to continue?
+Options:
+1. Create Heap
+2. Insert
+3. Merge Heap
+4. Find Min
+5. Extract Min
+6. Decrease Key
+7. Free Heap
+
+Choose your option: 
+Enter the name of the heap: 
+Enter the value of key to be replaced: 
+Enter the value of key to be replaced with: 
+Displaying heap c
+22,11,12,20  
+13:12  13:12  
+Do you want to continue?
+Options:
+1. Create Heap
+2. Insert
+3. Merge Heap
+4. Find Min
+5. Extract Min
+6. Decrease Key
+7. Free Heap
+
+Choose your option: 
+Enter the name of the heap: 
+Value of the Minimum in the heap c is 20
+Do you want to continue?

@@ -1,0 +1,3 @@
+class Fibo_Node{
+
+}
